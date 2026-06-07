@@ -32,5 +32,5 @@ Superstore Sales Dataset — Kaggle
 9,994 rows · 21 columns · US retail orders 2014–2017
 
 ## Author
-Shabana K M — Computer Science Engineer | Aspiring Data Analyst
+Shabana — Computer Science Engineer | Aspiring Data Analyst
 GitHub: github.com/shabanakm56
